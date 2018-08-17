@@ -2,6 +2,7 @@
 ## Author: Valinora
 ## Version: 0.1
 ## Title: vUI
+## X-oUF: vUI_oUF
 
 #@no-lib-strip@
 embeds.xml
