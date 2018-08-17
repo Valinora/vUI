@@ -1,0 +1,10 @@
+## Interface: 80000
+## Author: Valinora
+## Version: 0.1
+## Title: vUI
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+vUI.xml
