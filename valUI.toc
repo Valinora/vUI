@@ -1,11 +1,11 @@
 ## Interface: 80000
 ## Author: Valinora
 ## Version: 0.1
-## Title: vUI
-## X-oUF: vUI_oUF
+## Title: valUI
+## X-oUF: valUI_oUF
 
 #@no-lib-strip@
 embeds.xml
 #@end-no-lib-strip@
 
-vUI.xml
+valUI.xml
